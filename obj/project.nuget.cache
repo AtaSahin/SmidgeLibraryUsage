@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f91wi0qWRVNiNnnxikRR4pdRlTV8o0imA+4dAlcyg6jrxf0ISmW8FHF6ydMoe38hQ/BHYQPu/LIiiuDz4i69bA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\90545\\source\\repos\\SmidgeWeb\\SmidgeWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\90545\\.nuget\\packages\\smidge\\3.1.1\\smidge.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
